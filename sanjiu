@@ -5,8 +5,12 @@
       "args": "人类为何变成了肆虐宇宙的病毒？科幻佳作《人类失落》中的未来有"
     },
     {
-      "actionType": 2,
+      "actionType": 3,
       "args": "https://www.bilibili.com/"
+    },
+    {
+      "actionType": 2,
+      "args": "aaa"
     }
   ]
 }
